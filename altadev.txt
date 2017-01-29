@@ -1,0 +1,5 @@
+Last update: 2017/01/20 
+Standards: HTML5, CSS3
+Components: JQuery, JSON, LESS
+Software: Sublime Text, Koala
+Name: Flávio Rodrigues
